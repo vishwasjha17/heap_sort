@@ -100,6 +100,7 @@ int main()
       cin>>val;
       increment(a,j,val);
       print(a,x);
+      cout<<"that is it your are done"<<endl;
     }
 
    return  0;
