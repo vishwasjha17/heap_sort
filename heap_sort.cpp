@@ -102,5 +102,8 @@ int main()
       print(a,x);
     }
 
+  
+  
+  
    return  0;
 }
